@@ -1,28 +1,11 @@
-.holder{
-     display: flex;
-     flex-wrap: wrap;
-     
-     justify-content: space
-     background-color: green;
-     
-   }
-   
-   .item3{
-      flex: 0 0 auto;
-      padding:10px 20px;
-      background-color: red;
-   }
+.holder {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center; 
+  background-color: green; 
+}
+
   
-   .item2{
-      flex: 0 0 auto;
-      padding:10px 20px;
-      background-color: green;
-   }
-  
-   .item1{
-      flex: 0 0 auto;
-      padding:10px 20px;
-      background-color: blue;
-   }
-/* Your CSS Code her
+
 
